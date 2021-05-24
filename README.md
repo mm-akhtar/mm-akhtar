@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tarun-kamboj.github.io/" target="_blank">
+  <a href="https://www.linkedin.com/in/mm-akhtar" target="_blank">
     <img height="40px" src="https://img.shields.io/badge/-M_M-0d1117?style=for-the-badge">
     <img height="40px" src="https://img.shields.io/badge/-AKHTAR-0d1117?style=for-the-badge"><br>
     <img src="https://img.shields.io/badge/-A-0d1117?style=for-the-badge">
