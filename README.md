@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tarun-kamboj.github.io/">
+  <a href="https://tarun-kamboj.github.io/" target="_blank">
     <img height="40px" src="https://img.shields.io/badge/-M_M-0d1117?style=for-the-badge">
     <img height="40px" src="https://img.shields.io/badge/-AKHTAR-0d1117?style=for-the-badge"><br>
     <img src="https://img.shields.io/badge/-A-0d1117?style=for-the-badge">
@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/badge/-a-0d1117?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Full_Stack_web_developer-0d1117?style=for-the-badge">
   </a><br>
-  <a href="https://www.linkedin.com/in/mm-akhtar"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
-  <a href="mailto:contact.mmakhtar@gmail.com"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://stackoverflow.com/users/15547425/mm-akhtar"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Stack-Overflow"></a>
-  <a href="https://wa.me/919365234855"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/mm-akhtar" target="_blank" ><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
+  <a href="mailto:contact.mmakhtar@gmail.com" target="_blank" ><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
+  <a href="https://stackoverflow.com/users/15547425/mm-akhtar" target="_blank" ><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Stack-Overflow"></a>
+  <a href="https://wa.me/919365234855" target="_blank"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
   <a href="https://discord.com/channels/mm-akhtar#6862"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Discord"></a>
-  <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.95396,77.4908551,11z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627">
+  <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.95396,77.4908551,11z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627" target="_blank">
     <img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 <p align="center">
