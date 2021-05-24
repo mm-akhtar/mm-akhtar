@@ -17,8 +17,8 @@
     <img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4c8ed9"><br><br>
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<img src="https://komarev.com/ghpvc/?username=mm-akhtarj&style=flat-square&color=green"><br><br>
+<img width="370px" src="https://github-readme-stats.vercel.app/api?username=mm-akhtar-Kamboj&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 <a href="https://github.com/Tarun-Kamboj/Language_Translator_Webapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Language_Translator_Webapp&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
@@ -26,6 +26,3 @@
 <a href="https://github.com/Tarun-Kamboj/Digit_Classification_Webapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Digit_Classification_Webapp&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 <a href="https://github.com/Tarun-Kamboj/Detecting_Cracks_In_Buildings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Detecting_Cracks_In_Buildings&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 </p>
-
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
