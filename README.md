@@ -23,6 +23,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=mm-akhtar&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 <a href="https://github.com/mm-akhtar/task-manager-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-akhtar&repo=task-manager-api&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 <a href="https://github.com/mm-akhtar/nodejs-weather-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-akhtar&repo=nodejs-weather-website&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
-<a href="https://github.com/mm-akhtar/expenses-react-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-akhtar&repo=Dexpenses-react-app&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
+<a href="https://github.com/mm-akhtar/expenses-react-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-akhtar&repo=expenses-react-app&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 <a href="https://github.com/mm-akhtar/food-order-react-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-akhtar&repo=food-order-react-app&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 </p>
