@@ -26,3 +26,6 @@
 <a href="https://github.com/Tarun-Kamboj/Digit_Classification_Webapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Digit_Classification_Webapp&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 <a href="https://github.com/Tarun-Kamboj/Detecting_Cracks_In_Buildings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Detecting_Cracks_In_Buildings&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
 </p>
+
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
