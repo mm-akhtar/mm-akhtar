@@ -17,7 +17,7 @@
     <img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mm-akhtarj&style=flat-square&color=green"><br><br>
+<img src="https://komarev.com/ghpvc/?username=mm-akhtarj&style=flat-square&color=00bfff"><br><br>
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=mm-akhtar&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00bfff&text_color=878787&icon_color=00bfffe&cache_seconds=1800" />
 <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=mm-akhtar&background=00000000&hide_border=true&stroke=878787&ring=00bfff&fire=00bfff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=mm-akhtar&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
