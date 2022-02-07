@@ -3,7 +3,7 @@
     <img height="40px" src="https://img.shields.io/badge/-M_M-0d1117?style=for-the-badge">
     <img height="40px" src="https://img.shields.io/badge/-AKHTAR-0d1117?style=for-the-badge"><br>
     <img src="https://img.shields.io/badge/-A-0d1117?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Python_Developer-0d1117?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Nodejs_Developer-0d1117?style=for-the-badge">
     <img src="https://img.shields.io/badge/-and-0d1117?style=for-the-badge">
     <img src="https://img.shields.io/badge/-a-0d1117?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Full_Stack_web_developer-0d1117?style=for-the-badge">
